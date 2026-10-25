@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-admin-dashboard/static/css/main.af222086.css",
-    "main.js": "/react-admin-dashboard/static/js/main.a9bf7fc0.js",
-    "static/media/me.jpg": "/react-admin-dashboard/static/media/me.563d3e8d8165cab46e43.jpg",
-    "static/media/logo.png": "/react-admin-dashboard/static/media/logo.1b339d139318ccc0a407.png",
-    "static/media/maintenance.png": "/react-admin-dashboard/static/media/maintenance.b8ad20dfae25729f0778.png",
-    "static/media/upload.png": "/react-admin-dashboard/static/media/upload.b969462c9de9339de168.png",
-    "static/media/delete.png": "/react-admin-dashboard/static/media/delete.b5d68e25ab3f6cd47475.png",
-    "index.html": "/react-admin-dashboard/index.html",
-    "static/media/dark.svg": "/react-admin-dashboard/static/media/dark.90e7819ca3810a099cd8b1989d4520ee.svg",
-    "static/media/light.svg": "/react-admin-dashboard/static/media/light.72afb639c0c864e79bac25a6dee11b92.svg",
-    "main.af222086.css.map": "/react-admin-dashboard/static/css/main.af222086.css.map",
-    "main.a9bf7fc0.js.map": "/react-admin-dashboard/static/js/main.a9bf7fc0.js.map"
+    "main.css": "./static/css/main.af222086.css",
+    "main.js": "./static/js/main.cd11b844.js",
+    "static/media/me.jpg": "./static/media/me.563d3e8d8165cab46e43.jpg",
+    "static/media/logo.png": "./static/media/logo.1b339d139318ccc0a407.png",
+    "static/media/maintenance.png": "./static/media/maintenance.b8ad20dfae25729f0778.png",
+    "static/media/upload.png": "./static/media/upload.b969462c9de9339de168.png",
+    "static/media/delete.png": "./static/media/delete.b5d68e25ab3f6cd47475.png",
+    "index.html": "./index.html",
+    "static/media/dark.svg": "./static/media/dark.90e7819ca3810a099cd8b1989d4520ee.svg",
+    "static/media/light.svg": "./static/media/light.72afb639c0c864e79bac25a6dee11b92.svg",
+    "main.af222086.css.map": "./static/css/main.af222086.css.map",
+    "main.cd11b844.js.map": "./static/js/main.cd11b844.js.map"
   },
   "entrypoints": [
     "static/css/main.af222086.css",
-    "static/js/main.a9bf7fc0.js"
+    "static/js/main.cd11b844.js"
   ]
 }
