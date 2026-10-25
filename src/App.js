@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom';
 
 import Home from "./pages/home/Home";
 import Login from "./pages/login/Login";
@@ -68,7 +68,7 @@ function App() {
 
     <div className={ theme === 'light' ? 'App' : 'App dark' }>
 
-      <BrowserRouter>
+      <HashRouter>
 
         <Routes>
 
@@ -143,7 +143,7 @@ function App() {
 
         </Routes>
 
-      </BrowserRouter>
+      </HashRouter>
 
     </div>
 
